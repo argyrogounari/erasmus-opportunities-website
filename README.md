@@ -1,4 +1,20 @@
-This is the website for the organisations.
+# Erasmus Opportunities - Website
+
+This website was created for organisations to post opportunities for [erasmus-opportunities-mobile-app](https://github.com/argyrogounari/erasmus-opportunities-mobile-app).
+
+### Onboarding
+[<img src="readMe/website_onboarding.png" align="center" width="600" hspace="10" vspace="10">](readMe/website_onboarding.png)
+
+### Opportunity Form Filling
+[<img src="readMe/website_top_form.png" align="center" width="600" hspace="10" vspace="10">](readMe/website_top_form.png)
+
+[<img src="readMe/website_form_after.png" align="center" width="600" hspace="10" vspace="10">](readMe/website_form_after.png)
+
+[<img src="readMe/website_error_messages.png" align="center" width="600" hspace="10" vspace="10">](readMe/website_error_messages.png)
+
+[<img src="readMe/website_top_form.png" align="center" width="600" hspace="10" vspace="10">](readMe/website_top_form.png)
+
+[<img src="readMe/multiselect_after.png" align="center" width="600" hspace="10" vspace="10">](readMe/multiselect_after.png)
 
 Open source libraries used:
 
